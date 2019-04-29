@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Second_activity">
+    tools:context=".SecondActivity">
 
 
     <TextView
@@ -21,12 +21,12 @@
 
     <TextView
         android:id="@+id/text_message"
-        android:layout_width="wrap_content"
-        android:layout_height="36dp"
+        android:layout_width="321dp"
+        android:layout_height="38dp"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
         android:layout_marginTop="68dp"
-        android:layout_marginEnd="369dp"
+        android:layout_marginEnd="88dp"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <Button
